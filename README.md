@@ -1,6 +1,5 @@
 # Yugesh Eathalapaka
 ## I'm a student and developer(best at 🙃 🤟).
----
 
 - 👀 I’m interested in Web Devlopment
 - Learning MERN stack and exploring stuff.
